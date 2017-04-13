@@ -1,0 +1,24 @@
+{
+  "name": "brunch-static-app",
+  "description": "Brunch.io application with hbs, coffee, sass",
+  "private": true,
+  "author": "Brunch",
+  "version": "0.0.1",
+  "repository": "",
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build --production"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "auto-reload-brunch": "^2",
+    "brunch": "^2",
+    "brunch-static": "^1.2.1",
+    "clean-css-brunch": "^2",
+    "coffee-script-brunch": "^2.10.1",
+    "html-brunch-static": "^1.3.1",
+    "read-components": "^0.7.0",
+    "sass-brunch": "^2.10.4",
+    "uglify-js-brunch": "^2"
+  }
+}

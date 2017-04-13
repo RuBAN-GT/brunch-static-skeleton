@@ -1,0 +1,18 @@
+{
+  "name": "brunch-static-app",
+  "description": "Brunch.io application with hbs, coffee, sass",
+  "main": "",
+  "authors": [
+    "Brunch"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
